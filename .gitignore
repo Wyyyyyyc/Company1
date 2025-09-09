@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+
+# Next.js
+.next/
+
+# Java
+*.class
+
+# Spring Boot
+*.jar
+*.war
+
+# IDE
+.DS_Store
+.idea/
+*.iml
